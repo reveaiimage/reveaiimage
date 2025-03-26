@@ -2,6 +2,10 @@
 
 Welcome to Reve AI, a cutting-edge AI image generation platform that transforms your ideas into stunning visuals. Our platform empowers creators, artists, and businesses to bring their imagination to life with state-of-the-art AI technology.
 
+## 🚀 Getting Started
+
+Visit our platform at [reveai.dev](https://reveai.dev) to start creating stunning AI-generated images. Join our waitlist to be among the first to experience the future of AI image generation.
+
 ## 🌟 Features
 
 ### Powerful Image Generation
@@ -24,9 +28,7 @@ Welcome to Reve AI, a cutting-edge AI image generation platform that transforms 
 - Perfect for business and professional projects
 - No attribution required
 
-## 🚀 Getting Started
 
-Visit our platform at [reveai.dev](https://reveai.dev) to start creating stunning AI-generated images. Join our waitlist to be among the first to experience the future of AI image generation.
 
 ## 📈 Why Choose Reve AI?
 
